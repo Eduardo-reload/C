@@ -1,0 +1,3 @@
+/cygdrive/c/Users/emendez/Desktop/codigo/C/suma_de_matrcies/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/emendez/Desktop/codigo/C/suma_de_matrcies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/emendez/Desktop/codigo/C/suma_de_matrcies/cmake-build-debug/CMakeFiles/suma_de_matrcies.dir

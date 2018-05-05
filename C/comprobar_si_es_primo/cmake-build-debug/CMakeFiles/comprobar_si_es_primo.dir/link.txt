@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/comprobar_si_es_primo.dir/main.c.o  -o comprobar_si_es_primo.exe -Wl,--out-implib,libcomprobar_si_es_primo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

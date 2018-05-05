@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/orden_por_insercion.dir/main.c.o  -o orden_por_insercion.exe -Wl,--out-implib,liborden_por_insercion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

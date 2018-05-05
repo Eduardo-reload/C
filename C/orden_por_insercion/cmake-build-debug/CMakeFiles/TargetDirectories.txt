@@ -1,0 +1,3 @@
+/cygdrive/c/Users/emendez/Desktop/codigo/C/orden_por_insercion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/emendez/Desktop/codigo/C/orden_por_insercion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/emendez/Desktop/codigo/C/orden_por_insercion/cmake-build-debug/CMakeFiles/orden_por_insercion.dir

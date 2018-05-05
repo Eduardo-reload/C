@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/copiar_arrays_a_otro.dir/main.c.o  -o copiar_arrays_a_otro.exe -Wl,--out-implib,libcopiar_arrays_a_otro.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

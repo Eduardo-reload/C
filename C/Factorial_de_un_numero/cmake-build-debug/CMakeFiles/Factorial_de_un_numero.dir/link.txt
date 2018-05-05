@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Factorial_de_un_numero.dir/main.c.o  -o Factorial_de_un_numero.exe -Wl,--out-implib,libFactorial_de_un_numero.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

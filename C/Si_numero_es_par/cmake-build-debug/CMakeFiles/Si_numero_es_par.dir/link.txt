@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Si_numero_es_par.dir/main.c.o  -o Si_numero_es_par.exe -Wl,--out-implib,libSi_numero_es_par.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

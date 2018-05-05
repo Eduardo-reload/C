@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/suma_de_matrcies.dir/main.c.o  -o suma_de_matrcies.exe -Wl,--out-implib,libsuma_de_matrcies.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

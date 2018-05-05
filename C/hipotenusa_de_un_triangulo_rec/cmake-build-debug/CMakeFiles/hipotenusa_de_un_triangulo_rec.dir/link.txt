@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/hipotenusa_de_un_triangulo_rec.dir/main.c.o  -o hipotenusa_de_un_triangulo_rec.exe -Wl,--out-implib,libhipotenusa_de_un_triangulo_rec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
